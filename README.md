@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 -->
 
 - A developer and designer...
-- I’m currently learning PHP and Laravel
