@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **SuperiorUnknown/superiorunknown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A developer and designer...
+I’m currently learning PHP and Laravel
